@@ -1,1 +1,1 @@
-# php-laravel-quran
+# js-react-quran
